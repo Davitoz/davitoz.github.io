@@ -51,7 +51,7 @@
 }
 
 /* xs */
-/*
+
 @media (max-width: 767px) {
 
 	main[role="main-wrapper-iamge"],main[role="main-wrapper-iamge"] > .over-bg-color{ position: static; background-image:none}
@@ -116,7 +116,7 @@
 
 	footer.mobile{ display:block}
 
-}*/
+}
 
 @media (max-width:414px) {
 
