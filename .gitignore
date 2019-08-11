@@ -1,0 +1,13 @@
+node_modules/**/*
+.expo/*
+npm-debug.*
+*.jks
+*.p12
+*.key
+*.mobileprovision
+*.DS_Store
+
+database/firebase.js
+database/*
+.deco/*
+firebase.js
